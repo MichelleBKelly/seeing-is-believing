@@ -1,2 +1,6 @@
 # seeing-is-believing
-QMIND x ScamBench Research
+Generative AI has fueled a massive spike in remote job scams, yet current security tools fail to address how human judgment breaks down during multi-step deceptions. It remains unclear if early trust in a synthetic recruiter profile causes victims to drop their guard, or if a deepfake's visual quality matters more than the mere presence of professional branding. To investigate, this project uses a remote, two-stage recruitment experiment with varying AI visual fidelity. By tracking compliance and hidden metrics like hesitation, we will isolate whether early trust reduces later scrutiny, providing the foundational data needed to design better cybersecurity defenses.
+
+## Where do I start?
+- Onboarding
+- Understanding the project
