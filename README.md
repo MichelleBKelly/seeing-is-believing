@@ -4,4 +4,4 @@ This project investigates how AI-generated recruiter profiles, headshots, and br
 
 ## Where do I start?
 
-- For onboarding, please read [this doc](./docs/onboarding/readme.md)
+- For onboarding, please read the notion. 
