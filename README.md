@@ -1,2 +1,7 @@
-# seeing-is-believing
-Generative AI has fueled a massive spike in remote job scams, yet current security tools fail to address how human judgment breaks down during multi-step deceptions. It remains unclear if early trust in a synthetic recruiter profile causes victims to drop their guard, or if a deepfake's visual quality matters more than the mere presence of professional branding. To investigate, this project uses a remote, two-stage recruitment experiment with varying AI visual fidelity. By tracking compliance and hidden metrics like hesitation, we will isolate whether early trust reduces later scrutiny, providing the foundational data needed to design better cybersecurity defenses.
+# Seeing Is Believing: Quantifying Human Vulnerability to AI-Generated Multi-Stage Recruitment Scams
+
+This project investigates how AI-generated recruiter profiles, headshots, and branded materials influence people’s susceptibility to multi-stage recruitment scams. Through a controlled two-stage experiment, we test whether visual realism builds early trust that carries over and makes participants less suspicious of later scam attempts.
+
+## Where do I start?
+
+- For onboarding, please read [this doc](./docs/onboarding/readme.md)
